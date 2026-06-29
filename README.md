@@ -21,6 +21,8 @@ cp .env.example .env.local
 pnpm dev
 ```
 
+ Preview moonleaf-site here: http://localhost:3000
+
 Fill `.env.local` with Resend credentials (`RESEND_API_KEY`, `CONTACT_TO_EMAIL`,
 `CONTACT_FROM_EMAIL`) to exercise the contact form locally.
 
